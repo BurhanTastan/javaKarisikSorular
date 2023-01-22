@@ -1,6 +1,6 @@
 package JavaSorular;
 
-public class Questions {
+public class Array {
     public static void main(String[] args) {
 
         int[] arr = {3, 6, 5, 7, 8, 8, 3, 6};
